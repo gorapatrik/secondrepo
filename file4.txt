@@ -1,1 +1,2 @@
 This is some wodoo stuff
+new line in file4
